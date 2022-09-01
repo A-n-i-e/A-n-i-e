@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating cool stuff
 - 🌱 I’m currently learning Html,Css and JavaScript
 - 💞️ I’m looking to collaborate on really cool projects
-- 📫 How to reach me ... Nowhere for now
+- 📫 How to reach me ... Space!
 
 Jesus Loves you!
 <!---
