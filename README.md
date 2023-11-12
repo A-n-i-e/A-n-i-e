@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-n-i-e
 - 👀 I’m interested in Frontend dev, physical computing, embedded systems and Robotics
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently threading the paths of AI/ML and arduinoingg
 - 💞️ I’m looking to collaborate on really cool projects
 - 📫 How to reach me ... Space!
 
